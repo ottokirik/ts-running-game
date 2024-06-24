@@ -1,29 +1,5 @@
-# Rsbuild Project
+# Пример простой игры на TypeScript и Canvas
 
-## Setup
+Игра реализована по обучающему видео [JavaScript Game Development Course for Beginners][1]
 
-Install the dependencies:
-
-```bash
-pnpm install
-```
-
-## Get Started
-
-Start the dev server:
-
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+[1]: https://www.youtube.com/watch?v=GFO_txvwK_c&list=PLMvDQerU8X_yQ1llORrMJ1XH74-vwviXd 'https://www.youtube.com/watch?v=GFO_txvwK_c&list=PLMvDQerU8X_yQ1llORrMJ1XH74-vwviXd'
